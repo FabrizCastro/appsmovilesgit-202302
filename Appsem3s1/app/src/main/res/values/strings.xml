@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App-sem3-s1</string>
+    <string name="usuario">Ingrese usuario</string>
+    <string name="registrar">Registrar</string>
+</resources>
