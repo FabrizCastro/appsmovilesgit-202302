@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="pregunta">¿Es Lima Capital de Perú?</string>
+</resources>
